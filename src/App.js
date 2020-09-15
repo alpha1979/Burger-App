@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className={classes.App}>
-        <h1> Does this work</h1>
+        <h1> Let's Make the Best Burger</h1>
         <Layout>
           <BurgerBuilder />
         </Layout>
